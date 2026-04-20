@@ -1,14 +1,53 @@
-# Skyscraper Rush
+🧩 42 SkyScraper
 
-**Skyscraper Rush** is a logic-based minigame developed during the **42 Piscine Rush Project**.  
-The goal is to solve a grid puzzle by placing building heights while respecting the visibility clues given from each side of the board.
+Welcome to my 42 SkyScraper repository!
+This project is part of the 42 curriculum and focuses on solving a constraint-based puzzle using logical reasoning and backtracking techniques.
 
-This project was built as part of the intensive 42 Piscine training, with a focus on **problem-solving, teamwork, algorithmic thinking, and clean C programming**. It challenged us to design a program capable of validating inputs, applying puzzle rules, and finding correct solutions efficiently.
+---
 
-Through this project, we practiced:
-- parsing and validating user input
-- implementing logical constraint-solving
-- working collaboratively under time pressure
-- writing structured and efficient C code
+📚 About the Project
 
-Skyscraper Rush reflects the core spirit of the 42 Piscine: learning by building, experimenting, and solving problems as a team.
+The SkyScraper project is designed to:
+
+* Strengthen problem-solving and logical thinking
+* Practice working with constraints and validation rules
+* Improve algorithmic thinking
+* Develop efficient solutions under strict requirements
+
+---
+
+🧠 What I Worked On
+
+Throughout this project, I focused on:
+
+* Parsing and validating input constraints
+* Implementing backtracking algorithms
+* Managing edge cases and invalid inputs
+* Optimizing solution performance
+
+---
+
+⚙️ Concepts Used
+
+* Backtracking
+* Constraint satisfaction
+* Input parsing
+* Grid-based problem solving
+
+---
+
+🎯 Purpose
+
+* Apply algorithmic thinking to a real problem
+* Improve efficiency and code structure
+* Strengthen core C programming skills
+
+---
+
+👤 Author
+
+Frenkli Paluku
+
+---
+
+⭐ If you find this project interesting, feel free to star it!
